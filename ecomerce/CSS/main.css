@@ -11,6 +11,10 @@
     font-size: 9px;
 }
 
+.text-black{
+    color: rgb(0, 0, 0) !important;
+}
+
 .bg-white{
     background-color: var(--blanco) !important;
     font-size: 9px;
